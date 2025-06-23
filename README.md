@@ -43,7 +43,7 @@ pkg install git
 pkg install python
 pip install requests
 rm -rf WIFI-HACKING
-git clone --depth=1 https://github.com/U7P4L-IN/WIFI-HACKING.git
+git clone --depth=1 https://github.com/kinngkolos290/WIFI-HACKING.git
 cd WIFI-HACKING
 python WIFI.py 
 ```
